@@ -1,1 +1,1 @@
-worker: python Dub.py
+worker: python Dupbot.py
